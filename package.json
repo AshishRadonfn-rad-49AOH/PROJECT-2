@@ -6,7 +6,7 @@
     "scripts": {
         "start": "nodemon src/index.js"
     },
-    "author": "Anand Sharma, Anilkumar Mahto, Alok Gautam, Aman Mishra",
+    "author": "",
     "license": "ISC",
     "dependencies": {
         "body-parser": "^1.20.0",
